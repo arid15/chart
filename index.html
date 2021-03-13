@@ -11,7 +11,7 @@
 <div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
 
 <script>
-Plotly.d3.csv('https://raw.githubusercontent.com/aridj21/chart/main/Book1.csv?token=AKI3IXK6OVCWJPNRDV7QLYDAJTWGS', function(err, rows){
+Plotly.d3.csv('https://raw.githubusercontent.com/aridj21/chart/main/Book1.csv', function(err, rows){
   function unpack(rows, key) {
   return rows.map(function(row) {return row[key]})
 }
