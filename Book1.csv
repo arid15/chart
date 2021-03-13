@@ -1,0 +1,204 @@
+ids,labels,parents
+Aqil,Aqil,
+Abdul Hakim,Abdul Hakim,
+Abdurrahman,Abdurrahman,Aqil
+Saad,Saad,Aqil
+Ahmad,Ahmad,Aqil
+Muhammad,Muhammad,Aqil
+Fatimah,Fatimah,Aqil
+Rahimah,Rahimah,Aqil
+Kultsum,Kultsum,Aqil
+Djoharuddin,Djoharuddin,Abdurrahman
+Zakiyah,Zakiyah,Abdurrahman
+Fatmah,Fatmah,Abdurrahman
+Madiyyah,Madiyyah,Abdurrahman
+Ruqayyah,Ruqayyah,Abdurrahman
+Muhammad Yahya,Muhammad Yahya,Saad
+Salmah,Salmah,Saad
+Umar,Umar,Saad
+Ali,Ali,Saad
+Abdurrahman bin Saad,Abdurrahman,Saad
+Aminah,Aminah,Saad
+Muhammad Aqib,Muhammad Aqib,Saad
+Hafifah,Hafifah,Saad
+Zahrah,Zahrah,Saad
+Ramlah,Ramlah,Ahmad
+Zainab,Zainab,Ahmad
+Muhammad Isa,Muhammad Isa,Ahmad
+Abdullah,Abdullah,Ahmad
+Tsuwaibah,Tsuwaibah,Ahmad
+Syeikhah,Syeikhah,Ahmad
+Muhsin,Muhsin,Ahmad
+Muhammad Djauhari,Muhammad Djauhari,Ahmad
+Shafiyah,Shafiyah,Muhammad
+Salim,Salim,Muhammad
+Amah,Amah,Muhammad
+Saleh,Saleh,Muhammad
+Abdullah bin Muhammad,Abdullah,Muhammad
+Hafshah,Hafshah,Muhammad
+Aminah binti Muhammad,Aminah,Muhammad
+Rahimah binti Muhammad,Rahimah,Muhammad
+Abdurrahman Assegaff,Abdurrahman,Fatimah
+Umar Assegaff,Umar,Fatimah
+Maznah,Maznah,Fatimah
+Qomariah,Qomariah,Fatimah
+Shafiyyah,Shafiyyah,Fatimah
+Alwiyah,Alwiyah,Fatimah
+Khadijah,Khadijah,Fatimah
+Ali Assegaff,Ali,Fatimah
+Galib,Galib,Fatimah
+Syeikh,Syeikh,Fatimah
+Saud,Saud,Rahimah
+Salmah Assegaff,Salmah,Rahimah
+Syeikhah Assegaff,Syeikhah,Rahimah
+Ahmad Assegaff,Ahmad,Rahimah
+Ifa,Ifa,Rahimah
+Aisyah,Aisyah,Rahimah
+Husein,Husein,Rahimah
+Musa,Musa,Rahimah
+Hawa,Hawa,Muhammad Yahya
+Hariri,Hariri,Muhammad Yahya
+Muhammad Shaleh,Muhammad Shaleh,Muhammad Yahya
+Muhammad Id,Muhammad Id,Muhammad Yahya
+Mariyah Qibthiyah,Mariyah Qibthiyah,Muhammad Yahya
+Hasyim,Hasyim,Muhammad Yahya
+Marzuki,Marzuki,Muhammad Yahya
+Erfan,Erfan,Hawa
+Emi,Emi,Hawa
+Ama,Ama,Erfan
+Auliyah,Auliyah,Erfan
+Ila Idris,Ila Idris,Emi
+Zulfikri Idris,Zulfikri Idris,Emi
+Farida Hilaliah,Farida Hilaliah,Hariri
+Zulfa Handayani,Zulfa Handayani,Hariri
+Evi Yanti,Evi Yanti,Hariri
+Aminah Ellawati,Aminah Ellawati,Hariri
+M. Fikri Fadhya,M. Fikri Fadhya,Farida Hilaliah
+Syifa Salsabila,Syifa Salsabila,Farida Hilaliah
+M. Rafi Alfatly Sondakh,M. Rafi Alfatly Sondakh,Zulfa Handayani
+Fattan Rizki Sondakh,Fattan Rizki Sondakh,Zulfa Handayani
+M. Ali Fathir Al-Ghani,M. Ali Fathir Al-Ghani,Aminah Ellawati
+Malik,Malik,Muhammad Id
+Rafiah,Rafiah,Muhammad Id
+Ghazali,Ghazali,Umar
+Safwan,Safwan,Muhammad Isa
+Dila,Dila,Safwan
+Fadlan,Fadlan,Safwan
+Muhammad Syafii,Muhammad Syafii,Safwan
+Muhammad Isa bin Safwan,Muhammad Isa,Safwan
+Agil,Agil,Abdullah
+Hafsa,Hafsa,Abdullah
+M. Fadli,M. Fadli,Agil
+Taufik,Taufik,Agil
+Djawahir,Djawahir,Agil
+Ahmad Fitri,Ahmad Fitri,Agil
+Bachtiar,Bachtiar,Agil
+Ahmad bin Agil,Ahmad,Agil
+Bahrudin,Bahrudin,Agil
+Suryadi,Suryadi,Agil
+Husni,Husni,Agil
+Uda,Uda,M. Fadli
+Udi,Udi,M. Fadli
+Aki,Aki,M. Fadli
+Raihan,Raihan,Djawahir
+Irni Auliani,Irni Auliani,Djawahir
+M. Afdhal,M. Afdhal,Bachtiar
+M. Hidayah,M. Hidayah,Bachtiar
+M. Muzakkir,M. Muzakkir,Bachtiar
+Abdul Aziz,Abdul Aziz,Bachtiar
+Fazriani,Fazriani,Husni
+Nona Pattiekon,Nona Pattiekon,Hafsa
+Abdurrachman Kilian,Abdurrachman Kilian,Nona Pattiekon
+Rahmat Syah Kilian,Rahmat Syah Kilian,Nona Pattiekon
+Rahmat Rifandi,Rahmat Rifandi,Nona Pattiekon
+Talhah,Talhah,Muhsin
+Halimah,Halimah,Muhsin
+Mohammad,Mohammad,Muhsin
+Achmad,Achmad,Muhsin
+Fatimah binti Muhsin,Fatimah,Muhsin
+Saleh - Muhsin,Saleh,Muhsin
+Rahmah binti Muhsin,Rahmah,Muhsin
+Bakri,Bakri,Muhsin
+Ekram,Ekram,Muhammad Djauhari
+Nahda,Nahda,Muhammad Djauhari
+Rusda,Rusda,Muhammad Djauhari
+Farida,Farida,Muhammad Djauhari
+Djunaidi,Djunaidi,Muhammad Djauhari
+Moh. Safii,Moh. Safii,Muhammad Djauhari
+Mukhlis,Mukhlis,Muhammad Djauhari
+Wardah,Wardah,Muhammad Djauhari
+Hilma,Hilma,Muhammad Djauhari
+Helmi,Helmi,Muhammad Djauhari
+Fachrurrazi,Fachrurrazi,Muhammad Djauhari
+Musdalifah,Musdalifah,Ekram
+Irwanto Benu,Irwanto Benu,Nahda
+Nur Januarita Benu,Nur Januarita Benu,Nahda
+Sarifitri,Sarifitri,Rusda
+Abrar,Abrar,Rusda
+Muhammad Iqbal,Muhammad Iqbal,Rusda
+Pipit,Pipit,Farida
+Khafidatul H Lestaluhu,Khafidatul H Lestaluhu,Farida
+Dila,Dila,Djunaidi
+Farhah,Farhah,Djunaidi
+Hakim,Hakim,Djunaidi
+Riva,Riva,Moh. Safii
+Fahrizal,Fahrizal,Moh. Safii
+Muhammad Faruq,Muhammad Faruq,Moh. Safii
+Faisal,Faisal,Moh. Safii
+Irwansyah Muchsin,Irwansyah Muchsin,Wardah
+Muhammad Adil,Muhammad Adil,Hilma
+Armi,Armi,Helmi
+Munadiah,Munadiah,Helmi
+Kartika Rahmayani,Kartika Rahmayani,Fachrurrazi
+Fiza,Fiza,Irwanto Benu
+Agil bin Irwanto,Agil,Irwanto Benu
+Ali Akbar Hadad,Ali Akbar Hadad,Sarifitri
+Ikhsan A,Ikhsan A,Abrar
+Asra,Asra,Abrar
+Azam,Azam,Abrar
+Ye Safi Assegaff,Ye Safi Assegaff,Abdurrahman Assegaff
+Ye Hasem Assegaff,Ye Hasem Assegaff,Abdurrahman Assegaff
+Ipa Yaya Assegaff,Ipa Yaya Assegaff,Abdurrahman Assegaff
+Djufry Assegaff,Djufry Assegaff,Ye Safi Assegaff
+Ye Mamet,Ye Mamet,Umar Assegaff
+S. Salem Assegaff,S. Salem Assegaff,Umar Assegaff
+Said Djailani,Said Djailani,Umar Assegaff
+Ye Dula,Ye Dula,Umar Assegaff
+Said Hadi Assegaff,Said Hadi Assegaff,Umar Assegaff
+Abdullah bin Ye Mamet,Abdullah,Ye Mamet
+Fadli (Egon),Fadli (Egon),Abdullah bin Ye Mamet
+Elya,Elya,S. Salem Assegaff
+Na,Na,S. Salem Assegaff
+Saud - Salem,Saud,S. Salem Assegaff
+Mohamad,Mohamad,S. Salem Assegaff
+Seni Assegaff,Seni Assegaff,Said Djailani
+S. Moksen (Tuang),S. Moksen (Tuang),Said Djailani
+Nuremi (Emi),Nuremi (Emi),Said Djailani
+Anisa (Enis),Anisa (Enis),Said Djailani
+Fatimah (Tang),Fatimah (Tang),Said Djailani
+S. Ibrahim (Aenk),S. Ibrahim (Aenk),Said Djailani
+S. Abdurrahman (Dodi),S. Abdurrahman (Dodi),Said Djailani
+S. Achmad (Dedi),S. Achmad (Dedi),Said Djailani
+Habsa Assegaff (Non),Habsa Assegaff (Non),Said Djailani
+Nurlayla (Lely),Nurlayla (Lely),Said Djailani
+Dade Assegaff,Dade Assegaff,Ye Dula
+Hanafi Assegaff,Hanafi Assegaff,Ye Dula
+Lyly Assegaff,Lyly Assegaff,Ye Dula
+Alwiya Assegaff,Alwiya Assegaff,Ye Dula
+Usman Assegaff,Usman Assegaff,Ye Dula
+Mohamad Assegaff,Mohamad Assegaff,Ye Dula
+Farid Assegaff,Farid Assegaff,Said Hadi Assegaff
+Moksen Assegaff,Moksen Assegaff,Said Hadi Assegaff
+Fery Assegaff,Fery Assegaff,Said Hadi Assegaff
+Saiful Assegaff,Saiful Assegaff,Said Hadi Assegaff
+Ipa Oni,Ipa Oni,Galib
+Sagaf,Sagaf,Galib
+Pi Hir,Pi Hir,Galib
+Habib,Habib,Galib
+Abdullah bin Galib,Abdullah,Galib
+Alwiyah,Alwiyah,Syeikhah Assegaff
+Ibu Sen,Ibu Sen,Syeikhah Assegaff
+Ipa Ci,Ipa Ci,Syeikhah Assegaff
+Ye Ri,Ye Ri,Syeikhah Assegaff
+Mohamad bin Husein,Mohamad,Husein
+Ahmad bin Husein,Ahmad,Husein
