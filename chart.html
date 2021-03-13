@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- Load plotly.js into the DOM -->
+	<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+</head>
+
+<body>
+
+<h2>Family Tree</h2>
+<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+
+<script>
+Plotly.d3.csv('https://raw.githubusercontent.com/aridj21/chart/main/Book1.csv?token=AKI3IXK6OVCWJPNRDV7QLYDAJTWGS', function(err, rows){
+  function unpack(rows, key) {
+  return rows.map(function(row) {return row[key]})
+}
+
+  var data = [{
+        type: "sunburst",
+        maxdepth: 7,
+        ids: unpack(rows, 'ids'),
+        labels: unpack(rows, 'labels'),
+        parents: unpack(rows, 'parents'),
+        textposition: 'inside',
+        insidetextorientation: 'radial'
+  }]
+
+  var layout = {margin: {l: 0, r: 0, b: 0, t:0}}
+
+  Plotly.newPlot('myDiv', data, layout)
+})
+</script>
+
+</body>
+</html> 
